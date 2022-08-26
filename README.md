@@ -12,7 +12,7 @@ Learning new things every day...
 
 🌱 I’m currently learning some basic PHP.
 
-I previously walked thorugh these basic courses:
+I previously walked through these basic courses:
 
 - HTML
 - REGEX
