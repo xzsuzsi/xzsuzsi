@@ -6,7 +6,7 @@ Learning new things every day...
 
 
 
-😄 Pronouns: she ¤ her¤   (Ő ¤ ővé :hungary:)
+😄 Pronouns: she ¤ her¤   (Ő ¤ ővé :flag-hu:)
 
 🔭 I’m currently working on telco documentation (virtualized networks).
 
@@ -20,13 +20,13 @@ I previously walked thorugh these basic courses:
 
 My current assignments are based on the doc-as-code approach and require using the following tools / languages:
 
-- Sphinx and RestructuredText <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/sphinx_logo.jpeg" width="100px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/rst_logo.png width="100px">
-- Markdown <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/markdown_logo.jpg width="100px">
-- Git and GitHub <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/git_logo.png width="100px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/github_logo.jpg width="100px">
-- Jenkins (basic) <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/jenkins_logo.png width="100px">
+- Sphinx and RestructuredText <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/sphinx_logo.jpeg" width="50px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/rst_logo.png" width="50px">
+- Markdown <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/markdown_logo.jpg" width="50px">
+- Git and GitHub <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/git_logo.png" width="50px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/github_logo.jpg" width="50px">
+- Jenkins (basic) <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/jenkins_logo.png" width="50px">
 
 In my previous jobs I used these tools:
 
-- DITA CMS and Arbortext <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/ditacms_logo.png width="100px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/arbortext_logo.png width="100px">
-- Confluence and Jira <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/confluence_logo.png width="100px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/jira_logo.png width="100px">
+- DITA CMS and Arbortext <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/ditacms_logo.png" width="50px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/arbortext_logo.png" width="50px">
+- Confluence and Jira <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/confluence_logo.png" width="50px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/jira_logo.png" width="50px">
 - French press :coffee:
