@@ -6,7 +6,7 @@ Learning new things every day...
 
 
 
-😄 Pronouns: she ¤ her¤   (Ő ¤ ővé :flag-hu:)
+😄 Pronouns: **she** ¤ **her**   ( **Ő** ¤ **ővé** )
 
 🔭 I’m currently working on telco documentation (virtualized networks).
 
