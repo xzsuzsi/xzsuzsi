@@ -2,10 +2,9 @@
 
 Learning new things every day...
 
-<img src="https://github.com/xzsuzsi/xzsuzsi/blob/master/img/cat-pressing-red-button.gif">
+<img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/cat-pressing-red-button.gif">
 
-<!--
-**xzsuzsi/xzsuzsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 😄 Pronouns: she ¤ her¤ Ő 
 
@@ -15,4 +14,4 @@ Learning new things every day...
 
 
 
--->
+
