@@ -6,7 +6,7 @@ Learning new things every day...
 
 
 
-😄 Pronouns: **she** ¤ **her**   ( **Ő** ¤ **ővé** )
+😄 Pronouns: **she** ¤ **her**   ( **Ő** ¤ **övé** )
 
 🔭 I’m currently working on telco documentation (virtualized networks).
 
@@ -18,7 +18,7 @@ I previously walked through these basic courses:
 - REGEX
 - Documenting APIs
 
-## Current work
+## Current TW work
 
 My current assignments are based on the doc-as-code approach and require using the following tools / languages:
 
@@ -27,7 +27,7 @@ My current assignments are based on the doc-as-code approach and require using t
 - Git and GitHub   <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/git_logo.png" height="50px">   <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/github_logo.jpg" height="50px">
 - Jenkins (basic)   <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/Jenkins_logo.png" height="50px">
 
-## Previous experience
+## Previous TW experience
 
 In my previous jobs I used these tools:
 
