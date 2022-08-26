@@ -27,6 +27,6 @@ My current assignments are based on the doc-as-code approach and require using t
 
 In my previous jobs I used these tools:
 
-- DITA CMS and Arbortext <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/ditacms_logo.PNG" height="50px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/arbortext_logo.PNG" height="50px">
+- DITA CMS and Arbortext <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/DITACMS_logo.PNG" height="50px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/arbortext_logo.PNG" height="50px">
 - Confluence and Jira <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/confluence_logo.png" height="50px"> <img src="https://github.com/xzsuzsi/xzsuzsi/blob/main/img/jira_logo.png" height="50px">
 - French press :coffee:
